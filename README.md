@@ -48,7 +48,6 @@ De asemenea, rugăm frumos coordonatorii de dorctorat să anunțe doctoranzii di
 
 Vă mulțumesc mult de tot, vă doresc un final de săptămână liniștit și o toamnă agreabilă!
 
-# Doctoral Schools Scheduling
 
 # Doctoral Schools Scheduling
 
