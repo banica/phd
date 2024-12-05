@@ -50,41 +50,22 @@ Vă mulțumesc mult de tot, vă doresc un final de săptămână liniștit și o
 
 # Doctoral Schools Scheduling
 
-Seria I (SD: Automatica si Calculatoare; Inginerie electrica; Inginerie Energetica;
-Electronica, Telecomunicatii si tehnologia informatiei; Stiinte Aplicate; Ingineria si
-Aplicatiile Laserilor si acceleratorilor):
-Disciplina Etica (Dr. Daniela Mitutoiu): 
-26.11; 03.12; 10.12 (orele 17-21) si 17.12 (orele 18-20)
-Disciplina Metodologia cercetarii si autorat stiintific (Prof. Stefania Stoleriu):
-stefania.stoleriu@upb.ro
-29.11; 06.12 (orele 16-20)
-Disciplina Managementul proiectelor (Prof. Constantin Opran): constantin.opran@upb.ro
-28.11; 05.12 (orele 16-20)
-Seria II (SD: Inginerie mecanica; Ingineria industriala si robotica; Ingineria sistemelor
-biotehnice; Transporturi; Inginerie aerospatiala; Antreprenoriat, ingineria si
-managementul afacerilor):
-Disciplina Etica (Dr. Daniela Mitutoiu)
-25.11; 02.12; 09.12 (orele 17-21) si 16.12 (orele 18-20)
-Disciplina Metodologia cercetarii si autorat stiintific (Prof. Alina Badanoiu):
-alina.badanoiu@upb.ro
-04.12; 11.12 (orele 16-20)
-Disciplina Managementul proiectelor (Prof. Constantin Opran): constantin.opran@upb.ro
-12.12; 19.12 (orele 16-20)
-Seria III (SD: Stiinta si Ingineria Materialelor; Inginerie Chimică şi Biotehnologii):
-Disciplina Etica (Prof. Raluca Stan):
-27.11; 04.12; 11.12; (orele 16-20) si 18.12 (orele 14-16)
-Disciplina Metodologia cercetarii si autorat stiintific (Prof. Alina Badanoiu):
-alina.badanoiu@upb.ro
-05.12; 12.12 (orele 16-20)
-Disciplina Managementul proiectelor (Prof. Constantin Opran): constantin.opran@upb.ro
-26.11; 03.12 (orele 16-20)
-Seria IV (toti doctoranzii din Centrul Universitar Pitesti):
-Disciplina Etica (Dr. Daniela Mitutoiu):
-27.11; 04.12; 11.12 (orele 17-21) si 18.12 (orele 18-20)
-Disciplina Metodologia cercetarii si autorat stiintific (Prof. Stefania Stoleriu):
-stefania.stoleriu@upb.ro
-13.12; 20.12 (orele 16-20)
-Disciplina Managementul proiectelor (Prof. Constantin Opran): constantin.opran@upb.ro
-10.12; 17.12 (orele 16-20)
+# Doctoral Schools Scheduling
+
+| **Series** | **Details**                                  | **Discipline**                              | **Professor**                    | **Email**                      | **Dates**                                | **Time**      |
+|------------|----------------------------------------------|---------------------------------------------|-----------------------------------|--------------------------------|------------------------------------------|---------------|
+| **I**      | SD: Automatica și Calculatoare; Inginerie Electrică; Inginerie Energetică; Electronica, Telecomunicații și Tehnologia Informației; Științe Aplicate; Ingineria și Aplicațiile Laserilor și Acceleratorilor | Ethics                                      | Dr. Daniela Mitutoiu             | -                              | 26.11, 03.12, 10.12, 17.12               | 17:00-21:00 (except 17.12: 18:00-20:00) |
+|            |                                              | Research Methodology & Scientific Writing  | Prof. Stefania Stoleriu          | stefania.stoleriu@upb.ro       | 29.11, 06.12                             | 16:00-20:00   |
+|            |                                              | Project Management                         | Prof. Constantin Opran           | constantin.opran@upb.ro        | 28.11, 05.12                             | 16:00-20:00   |
+| **II**     | SD: Inginerie Mecanică; Ingineria Industrială și Robotică; Ingineria Sistemelor Biotehnice; Transporturi; Inginerie Aerospațială; Antreprenoriat, Ingineria și Managementul Afacerilor | Ethics                                      | Dr. Daniela Mitutoiu             | -                              | 25.11, 02.12, 09.12, 16.12               | 17:00-21:00 (except 16.12: 18:00-20:00) |
+|            |                                              | Research Methodology & Scientific Writing  | Prof. Alina Bădănoiu             | alina.badanoiu@upb.ro          | 04.12, 11.12                             | 16:00-20:00   |
+|            |                                              | Project Management                         | Prof. Constantin Opran           | constantin.opran@upb.ro        | 12.12, 19.12                             | 16:00-20:00   |
+| **III**    | SD: Știința și Ingineria Materialelor; Inginerie Chimică și Biotehnologii | Ethics                                      | Prof. Raluca Stan                | -                              | 27.11, 04.12, 11.12, 18.12               | 16:00-20:00 (except 18.12: 14:00-16:00) |
+|            |                                              | Research Methodology & Scientific Writing  | Prof. Alina Bădănoiu             | alina.badanoiu@upb.ro          | 05.12, 12.12                             | 16:00-20:00   |
+|            |                                              | Project Management                         | Prof. Constantin Opran           | constantin.opran@upb.ro        | 26.11, 03.12                             | 16:00-20:00   |
+| **IV**     | All doctoral students from Centrul Universitar Pitești | Ethics                                      | Dr. Daniela Mitutoiu             | -                              | 27.11, 04.12, 11.12, 18.12               | 17:00-21:00 (except 18.12: 18:00-20:00) |
+|            |                                              | Research Methodology & Scientific Writing  | Prof. Stefania Stoleriu          | stefania.stoleriu@upb.ro       | 13.12, 20.12                             | 16:00-20:00   |
+|            |                                              | Project Management                         | Prof. Constantin Opran           | constantin.opran@upb.ro        | 10.12, 17.12                             | 16:00-20:00   |
+
 
 
