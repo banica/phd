@@ -48,4 +48,43 @@ De asemenea, rugăm frumos coordonatorii de dorctorat să anunțe doctoranzii di
 
 Vă mulțumesc mult de tot, vă doresc un final de săptămână liniștit și o toamnă agreabilă!
 
+# Doctoral Schools Scheduling
+
+Seria I (SD: Automatica si Calculatoare; Inginerie electrica; Inginerie Energetica;
+Electronica, Telecomunicatii si tehnologia informatiei; Stiinte Aplicate; Ingineria si
+Aplicatiile Laserilor si acceleratorilor):
+Disciplina Etica (Dr. Daniela Mitutoiu): 
+26.11; 03.12; 10.12 (orele 17-21) si 17.12 (orele 18-20)
+Disciplina Metodologia cercetarii si autorat stiintific (Prof. Stefania Stoleriu):
+stefania.stoleriu@upb.ro
+29.11; 06.12 (orele 16-20)
+Disciplina Managementul proiectelor (Prof. Constantin Opran): constantin.opran@upb.ro
+28.11; 05.12 (orele 16-20)
+Seria II (SD: Inginerie mecanica; Ingineria industriala si robotica; Ingineria sistemelor
+biotehnice; Transporturi; Inginerie aerospatiala; Antreprenoriat, ingineria si
+managementul afacerilor):
+Disciplina Etica (Dr. Daniela Mitutoiu)
+25.11; 02.12; 09.12 (orele 17-21) si 16.12 (orele 18-20)
+Disciplina Metodologia cercetarii si autorat stiintific (Prof. Alina Badanoiu):
+alina.badanoiu@upb.ro
+04.12; 11.12 (orele 16-20)
+Disciplina Managementul proiectelor (Prof. Constantin Opran): constantin.opran@upb.ro
+12.12; 19.12 (orele 16-20)
+Seria III (SD: Stiinta si Ingineria Materialelor; Inginerie Chimică şi Biotehnologii):
+Disciplina Etica (Prof. Raluca Stan):
+27.11; 04.12; 11.12; (orele 16-20) si 18.12 (orele 14-16)
+Disciplina Metodologia cercetarii si autorat stiintific (Prof. Alina Badanoiu):
+alina.badanoiu@upb.ro
+05.12; 12.12 (orele 16-20)
+Disciplina Managementul proiectelor (Prof. Constantin Opran): constantin.opran@upb.ro
+26.11; 03.12 (orele 16-20)
+Seria IV (toti doctoranzii din Centrul Universitar Pitesti):
+Disciplina Etica (Dr. Daniela Mitutoiu):
+27.11; 04.12; 11.12 (orele 17-21) si 18.12 (orele 18-20)
+Disciplina Metodologia cercetarii si autorat stiintific (Prof. Stefania Stoleriu):
+stefania.stoleriu@upb.ro
+13.12; 20.12 (orele 16-20)
+Disciplina Managementul proiectelor (Prof. Constantin Opran): constantin.opran@upb.ro
+10.12; 17.12 (orele 16-20)
+
 
