@@ -18,14 +18,14 @@
 
 | Day | Hours | Course | Professor | Room |
 | --- | --- | --- | ---- | ---- | 
-|26.11.2024 | 17:00-21:00 | Ethics | Prof. Stefania Stoleru | Online |
+|26.11.2024 | 17:00-21:00 | Ethics | Prof. Daniela Mitutoiu | Online |
 |28.11.2024 | 16:00-20:00 | Project Management | Prof.  Constantin Opran | Online |
-|03.12.2024 | 17:00-21:00 | Ethics | Prof. Stefania Stoleru | Online |
+|03.12.2024 | 17:00-21:00 | Ethics | Prof. Daniela Mitutoiu | Online |
 |29.11.2024 | 16:00-20:00 | Research Methodology | Prof. Stefania Stoleru | Online |
 |05.12.2024 | 16:00-20:00 | Project Management | Prof. Constantin Opran | CD 016 |
 |06.12.2024 | 16:00-20:00 | Research Methodology | Prof. Stefania Stoleru | Online |
-|10.12.2024 | 17:00-21:00 | Ethics | Prof. Stefania Stoleru | Online |
-|17.12.2024 | 18:00-20:00 | Ethics | Prof. Stefania Stoleru | Online (?)|
+|10.12.2024 | 17:00-21:00 | Ethics | Prof. Daniela Mitutoiu | Online |
+|17.12.2024 | 18:00-20:00 | Ethics | Prof. Daniela Mitutoiu | Online (?)|
 
 # Announcement
 
