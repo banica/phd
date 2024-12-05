@@ -27,6 +27,10 @@
 |10.12.2024 | 17:00-21:00 | Ethics | Prof. Daniela Mitutoiu | Online |
 |17.12.2024 | 18:00-20:00 | Ethics | Prof. Daniela Mitutoiu | Online (?)|
 
+Room CD 016
+
+https://maps.app.goo.gl/8kaaZq2HrX6rBDMn9?g_st=com.google.maps.preview.copy
+
 # Announcement
 
 Dragi doctroanzi, dragi colegi conducători de doctorat,
