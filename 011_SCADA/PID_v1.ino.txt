@@ -1,0 +1,87 @@
+// PID_v1
+
+int Pin_rk = A0; // AI
+int Pin_yk = A1;  // AI
+int Pin_uk = 3;  // digital cu PWM
+
+float rk = 0.0; float rk_1 = 0.0; float rk_2 = 0.0;
+float yk = 0.0; float yk_1 = 0.0; float yk_2 = 0.0;
+float uk = 0.0; float uk_1 = 0.0; float uk_2 = 0.0;
+float ek = 0.0; float ek_1 = 0.0; float ek_2 = 0.0;
+
+// PID
+float Kr = 1.0;
+float Ti = 5.0;
+float Td = 0.0;//0.01
+float Te = 0.25;//secunde //1.25
+float q0 = 0.0,q1 = 0.0,q2 = 0.0;
+float Hd = 1.0;
+float uk_max = 100.0;
+float uk_min = 0.0;
+
+void setup()
+{
+  // initializari diverse
+  Serial.begin(9600);
+  pinMode(Pin_uk, OUTPUT);
+  q0 = Kr*(1+Te/Ti+Td/Te);
+  q1 = -Kr*(1+2*Td/Te);
+  q2 = Kr*Te/Ti;
+
+}
+
+
+void loop()
+{
+  // citire referinta - rk
+  int sensorValue = analogRead(Pin_rk);
+  // normare date in domeniul 0-100%
+  rk = sensorValue * (100.0 / 1023.0);
+  // actualizare uk_min, uk_max !!! unde se poate
+  //uk_min = rk - 10.0;
+  //uk_max = rk + 10.0;
+  
+  // citire masura - yk
+  sensorValue = analogRead(Pin_yk);
+  // normare date in domeniul 0-100%
+  yk = sensorValue * (100.0 / 1023.0);
+  // print out the value you read:
+  
+  // alg. de reglare (test)
+  ek = rk - yk;
+  // BP
+  /*
+  if(ek >= Hd)
+    uk = uk_max;
+  else if(ek <= -Hd)
+    uk = uk_min;
+  else
+    uk = uk_1;
+  */
+  // PI test
+  //uk = uk_1 + 0.35 * ek;
+  // PID
+  uk = uk_1+q0*ek+q1*ek_1+q2*ek_2;
+  // limitare comanda
+  if(uk < 0.0)
+    uk = 0.0;
+  if(uk > 100.0)
+    uk = 100.0;
+  // actualizare memorie alg. reglare
+  uk_1 = uk;
+  ek_2 = ek_1;
+  ek_1 = ek;
+
+    
+  // aplicare comanda uk
+  analogWrite(Pin_uk, (int)(255 * uk / 100.0));
+  
+  // trimitere date catre PC
+  Serial.print(rk);
+  Serial.print(" ");
+  Serial.print(yk);
+  Serial.print(" ");
+  Serial.println(uk);
+  
+  delay((int)(Te * 1000));
+}

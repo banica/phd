@@ -1,0 +1,45 @@
+// Simulare sistem RC
+
+const int analogInPinPot = A0;  // Analog input pin that the potentiometer is attached to
+const int analogInPinRC = A1;
+const int analogOutPinRC = 3; // Analog output pin that the LED is attached to
+
+float yk = 0.0;
+float rk = 0.0;
+float uk = 0.0;
+
+int sensorValue = 0;        // value read from the pot
+int outputValue = 0;        // value output to the PWM (analog out)
+
+void setup() {
+  // initialize serial communications at 9600 bps:
+  Serial.begin(9600);
+}
+
+void loop() {
+  // citire intrari analogice:
+  sensorValue = analogRead(analogInPinPot);
+  // scalare rk la domeniul 0-100 %
+  rk = ((float)sensorValue/1023.0)*100.0;
+  sensorValue = analogRead(analogInPinRC);
+  // scalare yk la domeniul 0-100 %
+  yk = ((float)sensorValue/1023.0)*100.0;
+  // calcul comanda - caz comanda manuala
+  uk = rk;
+  // aplicare comanda:
+  outputValue = (int)((uk/100.0)*255);
+  analogWrite(analogOutPinRC, outputValue);
+
+  // print the results to the Serial Monitor:
+  Serial.print("rk = ");
+  Serial.print(rk);
+  Serial.print(" ");
+  Serial.print("yk = ");
+  Serial.print(yk);
+  Serial.print(" ");
+  Serial.print("uk = ");
+  Serial.println(uk);
+
+  // wait 100 milliseconds before the next loop for the analog-to-digital
+  delay(100);
+}

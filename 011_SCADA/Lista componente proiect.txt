@@ -1,0 +1,39 @@
+Lista
+
+1. Arduino UNO
+https://www.optimusdigital.ro/ro/compatibile-cu-arduino-uno/1678-placa-de-dezvoltare-compatibila-cu-arduino-uno-atmega328p-i-ch340.html
+
+2. Cablu
+https://www.optimusdigital.ro/ro/cabluri-cabluri-usb/7313-cablu-albastru-usb-am-la-bm-50-cm-pentru-arduino-mega-i-uno.html?search_query=cablu+arduino+uno&results=28
+
+3. breadboard (x 2)
+https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/244-mini-breadboard-colorat.html
+
+4. Potentiometru 10K - x 3
+https://www.optimusdigital.ro/ro/componente-electronice-potentiometre/901-rezistor-variabil-10k-wh148.html
+
+5. Rezistenta 220Ω, 1KΩ, 4.7KΩ, 10KΩ fiecare x 5
+https://www.optimusdigital.ro/ro/componente-electronice-rezistoare/33-rezistoare-set.html
+
+6. Leduri x 4
+https://www.optimusdigital.ro/ro/optoelectronice-led-uri/696-led-rou-de-3-mm-cu-lentile-difuze.html?search_query=led&results=812 
+
+7. Condensator 1000uF, 470 uF (x 2, 3)
+https://www.optimusdigital.ro/ro/componente-electronice-condensatoare/3004-condensator-electrolitic-de-1000-uf-la-35-v.html?search_query=condensator&results=155
+
+8. Fire Colorate Tată-Tată x 1 pachet  10-20 cm
+https://www.optimusdigital.ro/ro/fire-fire-mufate/891-set-fire-tata-tata-10p-30-cm.html
+
+9. Ecran LCD
+https://www.optimusdigital.ro/ro/optoelectronice-lcd-uri/62-lcd-1602-cu-interfata-i2c-si-backlight-galben-verde.html?search_query=LCD&results=214
+
+10. Fotorezistor x 2
+https://www.optimusdigital.ro/ro/componente-electronice-altele/1863-fotorezistor-tip-5528.html?search_query=fotorezistor&results=22
+
+11. releu 5 v
+https://www.optimusdigital.ro/ro/electronica-de-putere-module-cu-releu/874-modul-releu-cu-un-canal-comandat-cu-5-v.html?search_query=releu&results=99
+
+
+etc. (mici) motoare cc + drivere
+
+* nu este neaparat
